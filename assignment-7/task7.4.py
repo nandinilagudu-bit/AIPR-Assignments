@@ -1,0 +1,9 @@
+#AI added self to method and attributes.
+class Student:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+s1=Student("nandini",25)
+print(s1.name) 
+print(s1.age)       
+        
