@@ -1,0 +1,4 @@
+{"city": "Hyderabad", "temperature": 20, "humidity": 75, "weather": "Clear skies"}
+{"city": "Warangal", "temperature": 20.54, "humidity": 70, "weather": "clear sky"}
+{"city": "Hyderabad", "temperature": 19.73, "humidity": 88, "weather": "haze"}
+{"city": "Hyderabad", "temperature": 19.73, "humidity": 88, "weather": "haze"}
