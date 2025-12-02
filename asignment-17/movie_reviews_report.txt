@@ -1,0 +1,13 @@
+Movie Reviews Cleaning Report
+=================================
+Input file: movie_reviews-1.csv
+Output file: movie_reviews_cleaned.csv
+
+-- Data Summary BEFORE --
+Shape: (15, 3)
+Missing ratings: 2
+
+-- Data Summary AFTER --
+Shape: (15, 6)
+Missing ratings filled with median: 8.0
+TF-IDF status: sklearn_not_available
